@@ -1,0 +1,44 @@
+,First_Name,Customer_Number,Last_Name,Street_Number,Street_Name,Unit,City,Postal_Code,Province,Owner_Phone,Alternate_Phone,Pet_Species,Last_Renewal_date,Pet_Name,Pet_Breed,Pet_Colour,Pet_Sex,Pet_is_fixed,Tag_#,Owner_Email,Expiry_year,Sold_By,Tag_Status,Rabies_Expiry,Pet_Status
+10,Orla,3230,Castaneda,155,Fance Place,V,B,J5X 9M7,ON,13175530572,1632710899,DOG,2001-01-14,Allen,Pom,WHITE,M,YES,3898,Donec.sollicitudin@Etiamimperdiet.net,2016-02-22,Regan,,2014-03-27,ACTIVE
+22,Angela,4908,Ewing,185,Real St,,A,X3Z 7B9,NB,6854912138,4151334089,CAT,2015-11-16,Mercedes,Pom,TRI,F,YES,2853,gravida.sagittis@Donecvitaeerat.com,2015-01-09,Cairo,,2013-10-21,ACTIVE
+35,Amela,7672,Malone,72,Fance Place,,B,J4J 6V8,NB,5873522859,6104369,CAT,1983-12-14,Hope,Shih tzu,TAN,M,YES,5346,egestas.Duis.ac@loremDonecelementum.com; test@bademail.com,2016-05-03,Jeremy,,2012-01-08,ACTIVE
+38,Lillith,1638,Talley,33,Real St,,A,T1M 7J7,NB,13787929331,1273795106,DOG,2005-02-24,Ignacia,POOGLE,TRI,M,YES,7478,ullamcorper@mauris.com,2013-06-19,Oren,,2005-02-01,ACTIVE
+41,Elizabeth,6301,Burnett,158,Fance Place,,A,C7H 2V3,NB,4307320501,,DOG,1996-07-18,William,Aust Shepherd,BLACK,F,NO,8127,luctus.et.ultrices@idenimCurabitur.net,2004-10-15,Dara,,2012-03-05,ACTIVE
+66,Flynn,5395,Johns,10,Fance Place,,A,H0B 3V8,QC,1488978,7154803558,DOG,2005-03-20,Latifah,Shepherd,CREAM,M,YES,9930,ante@sapienmolestieorci.com,2002-10-03,Amity,,1998-01-03,ACTIVE
+67,Ivy,6134,Weiss,8,Real St,,A,B7W 6K7,ON,5258218,,CAT,2007-05-27,Jocelyn,Maltese,BLACK/TAN,F,YES,8047,tincidunt.aliquam.arcu@lectusa.edu,2006-06-24,Talon,No,2002-06-13,ACTIVE
+89,Harriet,5984,Alvarado,158,Real St,D,A,K1K 6S2,ON,14943137445,13027134726,CAT,1986-03-18,Violet,Terrier,TRI,F,YES,9963,purus.Maecenas@fringillacursuspurus.co.uk,2017-10-18,Emerald,,1996-05-12,REMOVED
+108,Ivy,6134,Weiss,8,Real St,,A,Y7T 8Z2,ON,5258218,,DOG,1998-06-12,Kadeem,Shih tzu,PURPLE,F,NO,6016,Quisque.tincidunt@non.co.uk,2001-12-07,Thomas,,2016-09-04,ACTIVE
+125,Erin,5155,Cervantes,176,Fance Place,,A,R1N 0L2,ON,14309273971,6905652919,DOG,2010-10-21,Inez,Shih tzu,ORANGE,F,NO,5575,Sed.eu@augue.org,2012-02-15,Lani,,2008-03-29,
+128,Fitzgerald,6639,Gonzales,82,Real St,A,B,G7K 8X1,NB,8657542715,,DOG,1985-07-10,Alice,Tabby,PURPLE,M,NO,2109,Phasellus.dapibus@Pellentesquehabitant.com,2017-11-06,Garrison,,1999-05-02,ACTIVE
+133,Doris,7603,Hicks,34,Real St,,A,K6K 4W7,NB,11878565474,18113306088,CAT,2001-10-01,Peter,Terrier,BLUE,M,YES,6762,non.leo.Vivamus@enimnonnisi.net,2013-12-09,Victoria,D,2012-04-07,REMOVED
+145,Jolie,6808,Kirby,178,Real St,,A,M4A 9C5,ON,13312015698,,DOG,1987-07-07,Randall,German Shepherd,TAN,F,YES,8902,pede@turpis.org,2018-04-19,Ina,,2001-12-15,
+146,Echo,3695,Russo,79,Real St,C,B,A6H 5M7,NB,13393378116,7146292,DOG,2003-03-17,Alexander,German Shepherd,BLACK/TAN,F,YES,8291,mi.ac.mattis@lobortisClassaptent.co.uk,2015-01-15,Ian,,1994-10-15,ACTIVE
+150,Emery,9773,Britt,84,Real St,C,A,R6R 4R1,QC,11988313498,,CAT,1994-11-14,Gannon,Yes,TRI,F,NO,5367,ante.Maecenas.mi@nonante.org,2008-11-22,Burke,,2014-02-06,ACTIVE
+155,Lars,8453,Knowles,38,Brampton Street,,B,P0E 9B1,ON,17271201288,1283329052,CAT,2014-11-19,Kristen,Cat,WHITE,M,YES,3956,massa.non.ante@convallisin.org,2017-09-03,Bernard,,1999-05-01,ACTIVE
+190,Shellie,3921,Kirby,70,Brampton Street,,A,P6X 8W4,ON,2054185010,1172903044,CAT,1990-07-24,Rebecca,Yorkie,TAN,F,YES,2572,iaculis.enim@Praesenteudui.co.uk,2016-07-09,Edward,Sold,2011-11-01,REMOVED
+0,Fitzgerald,4417,Vazquez,164,Brampton Street,,A,H1E 6T0,QC,2242435099,,DOG,2018-11-21,Nathan,Shih tzu,BLACK/TAN,M,YES,5151,vestibulum.neque.sed@duinec.edu,2016-10-13,Hedwig,,2009-03-04,REMOVED
+4,Meghan,9697,Horn,89,Fance Place,,A,A2B 1W5,NL,8198807,,CAT,1988-06-18,Vivien,Spaniel,TRI,F,YES,4066,Nulla.semper.tellus@nibh.co.uk,2008-12-21,Clare,,2003-07-02,ACTIVE
+11,Holmes,9113,Valentine,74,Real St,,B,T9X 0S3,AB,4982068,9511454716,DOG,1994-06-21,Ariana,Malamute,TRI,M,YES,2025,gravida@Curabiturvel.org,2002-08-01,Mira,,2009-03-22,ACTIVE
+13,Aladdin,5674,Valentine,91,Real St,,B,B1A 6H3,NS,12333012758,,CAT,1994-01-08,Maisie,Aust Shepherd,BLACK/TAN,F,NO,3302,Cras.vulputate.velit@et.com,2002-08-23,Lucian,,2000-07-13,REMOVED
+14,Kylan,4306,Mclean,162,Fance Place,02-Jan,B,R5A 2H4,MB,13554208636,6507566755,DOG,2009-03-31,Hedley,Aust Shepherd,BLACK,F,YES,2810,Sed.molestie.Sed@rutrumlorem.net,2009-08-30,Scarlett,,2017-12-19,ACTIVE
+18,Logan,9737,Finley,117,Fance Place,A,A,N5H 0B5,ON,2647783,,DOG,2003-08-06,"Camden ""Twilnle""",Cat,WHITE,F,YES,6116,inceptos@varius.com,2016-03-14,Quyn,,1992-02-17,ACTIVE
+25,Brianna,1406,Hutchinson,54,Real St,V,A,G2M 2Y8,QC,5505798109,,CAT,1989-08-03,Karly,Malamute,PURPLE,F,NO,2675,nisl.Nulla.eu@dignissim.ca,2019-07-24,Drake,,1993-09-06,ACTIVE
+39,Preston,8295,Mcdonald,10,Brampton Street,02-Jan,A,N0E 1N3,ON,7715810,1898166,DOG,2001-03-31,Steel,Pom,BLACK,M,NO,1823,nisi.a.odio@iaculis.edu,2009-02-27,Gage,,2017-05-25,ACTIVE
+54,Zelda,2579,Reeves,148,Real St,,A,T5W 1T6,AB,1752930,17048322191,CAT,1993-08-18,Alden,Persian,TAN,M,YES,5753,at.risus.Nunc@vitaeorci.edu,2006-07-22,Abigail,,2006-01-06,ACTIVE
+56,Xandra,5878,Vega,43,Real St,,A,M5A 0Z4,ON,11323482457,,DOG,2009-08-07,Bert,Persian,TRI,M,NO,2473,non@semper.org,2017-01-21,Macy,,2006-03-25,ACTIVE
+59,Ignatius,1448,Crosby,50,Brampton Street,,A,L2N 0Z3,ON,62623756321234567890,1492493,CAT,2001-06-10,Armand,German Shepherd,PURPLE,F,YES,2316,dui.nec@ornareegestasligula.ca,2008-10-08,Barbara,,1997-03-18,ACTIVE
+61,Cassady,9803,Witt,104,Fance Place,D,A,G9C 1J2,QC,2111420623,,DOG,1997-04-16,Cassady,German Shepherd,BLUE,F,NO,5387,Etiam.laoreet.libero@inconsequat.ca,2014-11-17,Claire,,2018-03-23,REMOVED
+72,Timothy,6605,Forbes,10,Real St,,A,M4S 3R2,ON,7571812313,,CAT,1998-05-04,Elijah,Mix,MIX,M,YES,6810,diam.vel.arcu@metusIn.co.uk,2001-07-14,Flynn,,2000-08-19,ACTIVE
+82,Tate,7067,Dejesus,66,Fance Place,A,A,R3T 7K1,MB,14461862666,,DOG,1980-06-16,Brenden,Persian,BLACK/TAN,M,YES,5533,iaculis.aliquet.diam@hendreritconsectetuer.com,2006-12-27,Cain,,2005-09-03,ACTIVE
+94,Christopher,2799,Erickson,173,Real St,,B,R2W 5Z2,MB,14734709272,15698006920,CAT,2012-09-14,Cyrus,Terrier,BLACK/TAN,M,NO,7337,felis.purus@idrisus.org,2018-06-14,Octavius,,2004-06-11,ACTIVE
+98,Cedric,7493,Alston,43,Brampton Street,,B,K7H 0R8,ON,6479299805,15365829200,DOG,1997-04-09,Cameron,Tabby,ORANGE,F,YES,1700,aliquam.eros@miacmattis.ca,2008-04-11,Demetria,Expired,2006-08-13,ACTIVE
+99,Ryan,1939,Reyes,187,Real St,,A,N0M 1M7,ON,2148314434,3035915080,DOG,2009-10-22,Frances,Tabby,WHITE,F,YES,6415,eu@nuncQuisque.co.uk,2016-06-28,Jin,,2012-03-25,REMOVED
+115,Dorothy,4051,Snyder,140,Real St,,A,R3V 6E0,MB,11646326708,1196521807,DOG,1998-11-11,Olivia,Poodle,BLACK,F,YES,4009,non.sapien@ultriciesligula.edu,2018-10-15,Lynn,,2000-02-11,ACTIVE
+126,Cedric,7493,Alston,43,Brampton Street,,B,T1Y 6N5,AB,6479299805,15365829200,CAT,1998-01-06,Caleb,Yorkie,BLACK/TAN,F,YES,2488,Nunc@hendreritneque.edu,2014-09-22,Jessamine,,2016-06-02,REMOVED
+137,Katell & Tanya,6986,Patton,174,Fance Place,,B,B3S 7H5,NS,1349034,6836194,CAT,1986-02-20,Faith,Yorkie,TAN,M,YES,9997,ligula.Aenean@nequeNullam.com,2010-01-25,Kane,,2015-01-23,REMOVED
+148,Jasper,5694,Bailey,170,Real St,,A,G1T 0H4,QC,5687250522,19884578702,DOG,1986-02-23,Norman,German Shepherd,TRI,M,YES,8812,ut@ornareegestasligula.org,2010-03-04,Bethany,,1992-01-09,
+156,Louis,7874,Sharp,39,Real St,,A,P0E 8N7,ON,6246207334,,DOG,1982-05-27,Jade,German Shepherd,CREAM,M,NO,1089,sapien.imperdiet@aliquam.edu,2014-08-10,Aubrey,,2017-06-20,ACTIVE
+164,Matthew,4791,Sears,16,Brampton Street,A,B,P3E 6A9,ON,1832409264,5113451,DOG,1995-04-08,Shana,POOGLE,BLUE,F,NO,6639,molestie.tortor@ametmetus.com,2014-12-17,Macy,,2018-12-08,ACTIVE
+177,Fletcher,2710,Cameron,126,Brampton Street,B,A,J6A 0R4,QC,1536231929,,DOG,1984-08-30,Marvin,German Shepherd,WHITE,M,YES,3676,tincidunt.aliquam@purus.ca,2017-06-30,Jena,,2017-08-11,ACTIVE
+181,Abel,3578,Lara,94,Fance Place,,B,E8A 0C8,NB,6046024,12534805400,CAT,1990-04-07,Donna,Persian,TRI,F,YES,7163,ullamcorper.eu@dolor.ca,2018-12-22,Owen,,2017-03-08,REMOVED
+182,Debra,4301,Miles,22,Real St,02-Jan,B,R3H 2Y3,MB,19104646563,1235639388,DOG,1983-10-25,Shaeleigh,Persian,WHITE,M,NO,3096,nisi.magna@magna.com,2010-06-23,Donovan,,2005-02-01,ACTIVE
